@@ -1,4 +1,4 @@
-#Web Developer | Community Builder | Driven By The Details
+# Web Developer | Community Builder | Driven By The Details
 
 Education enthusiast and community builder turned full stack web developer with an eye for design.
 
